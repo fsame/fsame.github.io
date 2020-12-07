@@ -85,7 +85,7 @@ author:
   bio              : "Research associate at SFB1252-Prominence in Language, University of Cologne"
   location         : "Cologne, Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :  "f.same[at]uni-koeln.de"
   researchgate     :  "https://www.researchgate.net/profile/Fahime_Same2"
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "fahime-same"
   orcid            : "https://orcid.org/0000-0002-3413-3739"
