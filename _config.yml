@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Fafa Same"
   avatar           : "profile.png"
-  bio              : "A research associate at SFB1252-Prominence in Language, University of Cologne"
+  bio              : "Research associate at SFB1252-Prominence in Language, University of Cologne"
   location         : "Cologne, Germany"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  "f.same@uni-koeln.de"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            :  "f.same[at]uni-koeln.de"
+  researchgate     :  "https://www.researchgate.net/profile/Fahime_Same2"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "fafa_same"
   vine             :
   weibo            :
   xing             :
