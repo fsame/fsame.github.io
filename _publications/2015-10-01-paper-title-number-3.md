@@ -6,9 +6,7 @@ excerpt: 'This paper reports on a structured evaluation of feature-based Machine
 date: 2020-10-01
 venue: 'COLING'
 paperurl: 'https://www.aclweb.org/anthology/2020.coling-main.403/'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+
 ---
 
 [Download paper here](https://www.aclweb.org/anthology/2020.coling-main.403.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
