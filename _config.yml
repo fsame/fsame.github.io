@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fafa Same"
   avatar           : "profile.jpg"
-  bio              : "Research assistant in [SFB1252 Prominence in Language](https://sfb1252.uni-koeln.de/en/) at the University of Cologne, subproject INF: Data, Design \& Sustainability"
+  bio              : "Research assistant in [SFB1252 Prominence in Language](https://sfb1252.uni-koeln.de/en/) at the University of Cologne, subproject INF: Data, Design &amp; Sustainability"
   location         : "Cologne, Germany"
   employer         :
   pubmed           : 
