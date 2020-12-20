@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-#* B.S. in GitHub, GitHub University, 2012
-#* M.S. in Jekyll, GitHub University, 2014
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Diploma in Mathematics and Physics Discipline, Edalat High school, Iran, 2005
+* B.A. in English Language and Literature, University of Isfahan, Iran, 2009
+* M.A. in General Linguistics, Allameh Tabatabai University, Iran, 2011
+* Exchange student in Cognitive Science Department / Intern in Mercator Research Group, Ruhr University Bochum, Germany, 2013
+* Research Master (MRes) in Linguistics, Utrecht University, the Netherlands, 2014
+* Ph.D in Linguistics, University of Cologne, Germany (currently)
 
 Work experience
 ======
-#* Summer 2015: Research Assistant
-#  * Github University
-#  * Duties included: Tagging issues
-#  * Supervisor: Professor Git
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
-#* Fall 2015: Research Assistant
-#  * Github University
-#  * Duties included: Merging pull requests
-#  * Supervisor: Professor Hub
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
   
 Skills
 ======
