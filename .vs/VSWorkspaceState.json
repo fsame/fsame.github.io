@@ -2,7 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\files",
-    "\\_publications"
+    "\\markdown_generator",
+    "\\_publications",
+    "\\_talks"
   ],
+  "SelectedNode": "\\markdown_generator",
   "PreviewInSolutionExplorer": false
 }
