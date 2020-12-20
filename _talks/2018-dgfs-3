@@ -1,0 +1,13 @@
+---
+title: "A stand-off XML-TEI representation of reference annotation"
+collection: talks
+type: "Poster presentation"
+permalink: /talks/20/11/2018-dgfs-3
+venue: "DGfS 2018: 40th Annual Conference of the German Linguistic Society"
+date: 08/03/2020
+location: "Stuttgart, Germany"
+---
+
+ In this poster, we present an XML-TEI conformant stand-off representation of reference in discourse, building on the seminal work carried out in the MATE project (Poesio, Bruneseaux & Romary 1999) and the earlier proposal on a reference annotation framework in Salmon- Alt & Romary (2005). We make a three-way distinction between markables (the referring expressions), discourse entities (referents in the textual or extra-textual world), and links (relations that hold between referents, e.g., part-whole). Our approach differs from previous suggestions in that (i) inherent properties of the referent itself (e.g., animacy) are disentangled from the expressions used to refer to that referent, (ii) existing annotations from other layers such as morphosyntax are cleanly separated from the annotation of reference, but can be combined in queries and (iii) our proposal is integrated into the larger structure of existing TEI-ISO standards, thereby allowing for compatibility with existing TEI-encoded corpora and data sustainability. The workflow of adding reference annotations to an existing corpus will be demonstrated with concrete examples from ongoing work in the SFB 1252 (subprojects C01 and INF), where this representation of reference is the backbone for the annotation of (sentence) topic chains in dialogue data and for queries of topics in various grammatical constructions.
+
+[Link to the poster](https://hal.inria.fr/hal-01876327/document)
