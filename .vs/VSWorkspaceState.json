@@ -1,11 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\files",
-    "\\markdown_generator",
-    "\\_publications",
-    "\\_talks"
+    "\\assets\\css",
+    "\\_includes",
+    "\\_layouts",
+    "\\_sass"
   ],
-  "SelectedNode": "\\markdown_generator",
+  "SelectedNode": "\\_sass\\_sidebar.scss",
   "PreviewInSolutionExplorer": false
 }
