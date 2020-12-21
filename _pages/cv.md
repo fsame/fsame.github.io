@@ -29,13 +29,6 @@ Work experience
   * Project title: Project title: The relation between grammar and usage: null subjects and subject position in Spanish and Persian
   * Supervisor: Professor Dr. Aria Adli
   
-Skills
-======
-* Programming
-  * R
-  * XSLT
-  * Python
-
 
 Publications
 ======
@@ -48,9 +41,3 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-  
-Workshops
-======
-* Week of Writing
-* Days of Writing
