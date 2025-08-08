@@ -39,28 +39,6 @@ The curriculum covers diverse preprocessing methods for cleaning and preparing p
 | 24.01.2024 | Advanced Topics | No | - |
 | 31.01.2024 | Useful Tools & Course Wrap-up | No | - |
 
-## Learning Objectives
-
-By the end of this course, students will be able to:
-
-* **Master R programming** for linguistic data analysis
-* **Apply data management** fundamentals and file operations
-* **Clean and preprocess** textual and linguistic data
-* **Use regular expressions** for text processing
-* **Acquire data** from web sources and online corpora
-* **Work with Sketch Engine** for corpus queries
-* **Implement annotation** techniques (manual and automatic)
-* **Conduct exploratory data analysis** on linguistic datasets
-* **Create effective visualizations** of linguistic data
-* **Apply advanced analytical techniques** to real-world linguistic problems
-
-## Course Structure
-
-- **Weekly sessions** with theoretical introduction and hands-on practice
-- **Regular mini-tasks** to reinforce learning (most weeks)
-- **Practical approach** with immediate application of concepts
-- **Progressive complexity** from basics to advanced topics
-- **Real-world applications** using authentic linguistic data
 
 ## Student Feedback Highlights
 
