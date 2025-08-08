@@ -109,6 +109,63 @@ Work experience
 
 ---
 
+Skills & Expertise
+======
+<div class="skills-section">
+
+<div class="skill-category">
+<h3><strong>💻 Programming & Scripting</strong></h3>
+<p><strong>Python:</strong> pandas, NumPy, scikit-learn, TensorFlow<br>
+<strong>R:</strong> Statistical analysis and data manipulation<br>
+<strong>SQL:</strong> Database querying and management</p>
+</div>
+
+<div class="skill-category">
+<h3><strong>☁️ Cloud & Big Data Ecosystem (GCP)</strong></h3>
+<p><strong>BigQuery:</strong> Data warehousing and analytics<br>
+<strong>BigQuery ML:</strong> Machine learning in the cloud<br>
+<strong>Cloud Storage:</strong> Scalable object storage<br>
+<strong>Looker:</strong> Business intelligence and data visualization</p>
+</div>
+
+<div class="skill-category">
+<h3><strong>🤖 Machine Learning</strong></h3>
+<p><strong>Classical Methods:</strong> Linear/logistic regression, tree-based and ensemble models<br>
+<strong>Deep Learning:</strong> CNNs, RNNs/LSTMs<br>
+<strong>Transformer-based:</strong> Large Language Models (LLMs)</p>
+</div>
+
+<div class="skill-category">
+<h3><strong>📊 Survey & Crowdsourcing Platforms</strong></h3>
+<p><strong>Amazon Mechanical Turk:</strong> Human intelligence tasks<br>
+<strong>Prolific:</strong> Academic research participant recruitment<br>
+<strong>Qualtrics:</strong> Survey design and data collection<br>
+<strong>Google Forms:</strong> Simple survey creation</p>
+</div>
+
+<div class="skill-category">
+<h3><strong>🔤 Natural Language Processing</strong></h3>
+<p><strong>Toolkits:</strong> spaCy, NLTK, UDPipe, Quanteda, Hugging Face Transformers<br>
+<strong>Annotation Tools:</strong> INCePTION, WebAnno, MMAX2, ELAN<br>
+<strong>Corpus Analysis:</strong> Sketch Engine (CQL)</p>
+</div>
+
+<div class="skill-category">
+<h3><strong>📝 Markup & Document Preparation</strong></h3>
+<p><strong>Typesetting:</strong> LaTeX, Markdown<br>
+<strong>Data Formats:</strong> XML, XPath<br>
+<strong>Text Processing:</strong> Regular Expressions (Regex)</p>
+</div>
+
+<div class="skill-category">
+<h3><strong>🔄 Version Control & Collaboration</strong></h3>
+<p><strong>Git:</strong> Source code management and collaboration</p>
+</div>
+
+</div>
+
+---
+
 Publications
 ======
   <ul>{% for post in site.publications %}
