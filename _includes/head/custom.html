@@ -246,6 +246,55 @@
   margin: 2em 0;
 }
 
+/* Table styling for teaching sections */
+.teaching-section table,
+#main article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  background-color: rgba(140, 210, 213, 0.02);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.teaching-section th,
+#main article th {
+  background-color: #8cd2d5 !important;
+  color: #2c3e50 !important;
+  font-weight: bold;
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 2px solid rgba(140, 210, 213, 0.3);
+  font-size: 0.95em;
+}
+
+.teaching-section td,
+#main article td {
+  padding: 10px 15px;
+  border-bottom: 1px solid rgba(140, 210, 213, 0.2);
+  color: #eaeaea !important;
+  vertical-align: top;
+  line-height: 1.4;
+}
+
+.teaching-section tr:nth-child(even),
+#main article tr:nth-child(even) {
+  background-color: rgba(140, 210, 213, 0.05);
+}
+
+.teaching-section tr:hover,
+#main article tr:hover {
+  background-color: rgba(140, 210, 213, 0.1);
+  transition: background-color 0.3s ease;
+}
+
+.teaching-section table strong,
+#main article table strong {
+  color: #8cd2d5 !important;
+  font-weight: 600;
+}
+
 /* Responsive design for education section */
 @media (max-width: 768px) {
   .education-section h3 {
