@@ -11,12 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Linguistics, University of Cologne, Germany (currently)
-* Research Master (MRes) in Linguistics, Utrecht University, the Netherlands, 2014
-* Exchange student in Cognitive Science Department / Intern in Mercator Research Group, Ruhr University Bochum, Germany, 2013
-* M.A. in General Linguistics, Allameh Tabatabai University, Iran, 2011
-* B.A. in English Language and Literature, University of Isfahan, Iran, 2009
-* Diploma in Mathematics and Physics Discipline, Edalat High school, Iran, 2005
+<div class="education-section">
+
+### **Ph.D. in Linguistics** (2017-2022)
+**🏛️ University of Cologne, Germany**  
+*SFB1252 "Prominence in Language"*
+
+**📄 Thesis:** *Referring Expression Generation in Context: Combining Linguistic and Computational Approaches*  
+**👥 Supervisors:** Prof. Dr. Nikolaus P. Himmelmann, Prof. Dr. Kees van Deemter
+
+---
+
+### **Research Master's Programme in Linguistics** (2012-2014)
+**🏛️ Utrecht University, the Netherlands**
+
+**📄 Thesis:** *The Vector-based Semantics of Distal PP Modification*  
+**👥 Supervisors:** Prof. Dr. Yoad Winter, Dr. Choonkyu Lee
+
+---
+
+### **Exchange Student in Cognitive Science Department / Intern in Mercator Research Group** (2013-2014)
+**🏛️ Ruhr University Bochum, Germany**
+
+---
+
+### **M.A. in General Linguistics** (2009-2011)
+**🏛️ Allameh Tabatabai University, Iran**
+
+**📄 Thesis:** *The Morpho-semantic Analysis of Bahuvrihi Compounds in Persian*  
+**👥 Supervisor:** Prof. Dr. Koorosh Safavi
+
+---
+
+### **B.A. in English Language and Literature** (2005-2009)
+**🏛️ University of Isfahan, Iran**
+
+---
+
+### **Diploma in Mathematics and Physics Discipline** (2001-2005)
+**🏛️ Edalat High School, Iran**
+
+</div>
+
+---
 
 Work experience
 ======
