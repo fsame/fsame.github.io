@@ -1,0 +1,12 @@
+---
+title: "Constructing Distributions of Variation in Referring Expression Type from Corpora for Model Evaluation"
+collection: publications
+permalink: /publication/01/06/2022-paper_lrec_number_1
+excerpt: 'The generation of referring expressions (REs) is a non-deterministic task. However, the algorithms for the generation of REs are standardly evaluated against corpora of written texts which include only one RE per each reference. Our goal in this work is firstly to reproduce one of the few studies taking the distributional nature of the RE generation into account. We add to this work, by introducing a method for exploring variation in human RE choice on the basis of longitudinal corpora - substantial corpora with a single human judgement (in the process of composition) per RE. We focus on the prediction of RE types, proper name, description and pronoun. We compare evaluations made against distributions over these types with evaluations made against parallel human judgements. Our results show agreement in the evaluation of learning algorithms against distributions constructed from parallel human evaluations and from longitudinal data.'
+date: 01/06/2022
+venue: 'Proceedings of the Thirteenth Language Resources and Evaluation Conference'
+paperurl: 'https://aclanthology.org/2022.lrec-1.320/'
+---
+The generation of referring expressions (REs) is a non-deterministic task. However, the algorithms for the generation of REs are standardly evaluated against corpora of written texts which include only one RE per each reference. Our goal in this work is firstly to reproduce one of the few studies taking the distributional nature of the RE generation into account. We add to this work, by introducing a method for exploring variation in human RE choice on the basis of longitudinal corpora - substantial corpora with a single human judgement (in the process of composition) per RE. We focus on the prediction of RE types, proper name, description and pronoun. We compare evaluations made against distributions over these types with evaluations made against parallel human judgements. Our results show agreement in the evaluation of learning algorithms against distributions constructed from parallel human evaluations and from longitudinal data.
+
+[Download paper here](https://aclanthology.org/2022.lrec-1.320/) 
