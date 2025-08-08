@@ -172,6 +172,18 @@ redirect_from:
 
 <div class="section-break"></div>
 
+<div class="cv-section-header teaching-header">
+  <h1>🎓 Teaching</h1>
+</div>
+
+<div class="teaching-section">
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+</div>
+
+<div class="section-break"></div>
+
 <div class="cv-section-header publications-header">
   <h1>📚 Publications</h1>
 </div>
