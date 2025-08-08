@@ -9,8 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+<div class="cv-section-header education-header">
+  <h1>🎓 Education</h1>
+</div>
+
 <div class="education-section">
 
 <h3><strong>Ph.D. in Linguistics</strong> (2017-2022)</h3>
@@ -53,10 +55,12 @@ Education
 
 </div>
 
----
+<div class="section-break"></div>
 
-Work experience
-======
+<div class="cv-section-header work-header">
+  <h1>💼 Work Experience</h1>
+</div>
+
 <div class="work-experience-section">
 
 <h3><strong>Data Scientist</strong> (2024 - Present)</h3>
@@ -107,10 +111,12 @@ Work experience
 
 </div>
 
----
+<div class="section-break"></div>
 
-Skills & Expertise
-======
+<div class="cv-section-header skills-header">
+  <h1>🛠️ Skills & Expertise</h1>
+</div>
+
 <div class="skills-section">
 
 <div class="skill-category">
@@ -164,16 +170,26 @@ Skills & Expertise
 
 </div>
 
----
+<div class="section-break"></div>
 
-Publications
-======
+<div class="cv-section-header publications-header">
+  <h1>📚 Publications</h1>
+</div>
+
+<div class="publications-section">
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
+</div>
+
+<div class="section-break"></div>
+
+<div class="cv-section-header talks-header">
+  <h1>🎤 Talks</h1>
+</div>
+
+<div class="talks-section">
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+</div>

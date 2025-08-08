@@ -175,6 +175,73 @@
   font-weight: 600;
 }
 
+/* CV Section Headers */
+.cv-section-header {
+  text-align: center;
+  margin: 3em 0 2em 0;
+  padding: 1.5em 0;
+  border-radius: 12px;
+  position: relative;
+  overflow: hidden;
+}
+
+.cv-section-header::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, rgba(140, 210, 213, 0.1), rgba(140, 210, 213, 0.05));
+  border: 2px solid rgba(140, 210, 213, 0.3);
+  border-radius: 12px;
+}
+
+.cv-section-header h1 {
+  position: relative;
+  z-index: 1;
+  color: #8cd2d5;
+  font-size: 2.2em;
+  font-weight: bold;
+  margin: 0;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  letter-spacing: 1px;
+}
+
+.education-header::before {
+  background: linear-gradient(135deg, rgba(140, 210, 213, 0.12), rgba(100, 180, 183, 0.08));
+}
+
+.work-header::before {
+  background: linear-gradient(135deg, rgba(140, 210, 213, 0.1), rgba(120, 200, 203, 0.06));
+}
+
+.skills-header::before {
+  background: linear-gradient(135deg, rgba(140, 210, 213, 0.08), rgba(160, 220, 223, 0.04));
+}
+
+.publications-header::before {
+  background: linear-gradient(135deg, rgba(140, 210, 213, 0.06), rgba(180, 230, 233, 0.03));
+}
+
+.talks-header::before {
+  background: linear-gradient(135deg, rgba(140, 210, 213, 0.04), rgba(200, 240, 243, 0.02));
+}
+
+/* Section Breaks */
+.section-break {
+  height: 4px;
+  background: linear-gradient(to right, transparent, #8cd2d5, transparent);
+  margin: 3em 0;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px rgba(140, 210, 213, 0.3);
+}
+
+/* Publications and Talks Sections */
+.publications-section, .talks-section {
+  margin: 2em 0;
+}
+
 /* Responsive design for education section */
 @media (max-width: 768px) {
   .education-section h3 {
@@ -216,6 +283,15 @@
   
   .skill-category h3 {
     font-size: 1.1em;
+  }
+  
+  .cv-section-header {
+    margin: 2em 0 1.5em 0;
+    padding: 1em 0;
+  }
+  
+  .cv-section-header h1 {
+    font-size: 1.8em;
   }
 }
 </style>
