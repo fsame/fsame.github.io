@@ -10,7 +10,6 @@ location: "Cologne, Germany"
 
 **[Download Workshop Slides]({{ site.baseurl }}/files/latex_for_linguists_workshop_series.pdf)**
 
-This comprehensive workshop series introduces PhD students in linguistics to LaTeX typesetting, focusing on creating professional academic documents, dissertations, and publications with complex linguistic notation and formatting requirements.
 
 ## Workshop Series Overview
 
