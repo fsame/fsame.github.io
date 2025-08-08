@@ -8,7 +8,7 @@ date: 2022-10-01
 location: "Cologne, Germany"
 ---
 
-**[Download Workshop Slides]({{ site.baseurl }}/files/latex_for_linguists_workshop_series.pdf)**
+**[Download Workshop Slides]({{ site.baseurl }}/files/Latex_for_linguists_workshop_series.pdf)**
 
 
 ## Workshop Series Overview
