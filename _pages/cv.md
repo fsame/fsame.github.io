@@ -57,15 +57,57 @@ Education
 
 Work experience
 ======
-* 2017-now: Research Associate  
-  * University of Cologne/ SFB1252 Prominence in Language/ Sub-project: Infrastructure-Data, design, sustainability
-  * Supervisor: Professor Dr. Nikolaus Himmelmann
+<div class="work-experience-section">
 
-* 2015-2017: Research Associate
-  * University of Cologne
-  * Project title: Project title: The relation between grammar and usage: null subjects and subject position in Spanish and Persian
-  * Supervisor: Professor Dr. Aria Adli
-  
+<h3><strong>Data Scientist</strong> (2024 - Present)</h3>
+<p><strong>🏢 Trivago N.V.</strong><br>
+<em>Düsseldorf, Germany</em></p>
+
+<p><strong>💼 Core Responsibilities:</strong></p>
+<ul>
+<li>Build rule-based, ML, and LLM models for different tasks such as matching, deduplication, and data enrichment</li>
+<li>Develop and optimise BigQuery SQL and Python pipelines at scale</li>
+<li>Perform EDA, anomaly detection, data transformation, and visualisation</li>
+<li>Collaborate with backend engineers to productionize scalable models</li>
+<li>Work closely with stakeholders to deliver data-driven solutions</li>
+</ul>
+
+<hr>
+
+<h3><strong>Research Associate</strong> (2017 - 2024)</h3>
+<p><strong>🏛️ University of Cologne</strong><br>
+<em>Germany</em></p>
+
+<p><strong>🔬 Collaborative Research Center "Prominence in Language" (SFB1252)</strong><br>
+<strong>📋 Project:</strong> "INF – Infrastructure: Data, Design and Sustainability"<br>
+<strong>👥 PIs:</strong> Prof. Dr. Nikolaus P. Himmelmann, Prof. Dr. Nils Reiter</p>
+
+<p><strong>💼 Core Responsibilities:</strong></p>
+<ul>
+<li>Ensuring sustainable data management of ~20 research projects in compliance with the German Research Foundation (DFG) regulations, including tasks such as long-term data archiving, handling metadata, and fostering open science practices</li>
+<li>Assisting projects with different data workflow tasks including data preprocessing, automatic annotation, data wrangling, query matching, string manipulation, and data visualisation</li>
+<li>Consulting individual projects on experimental design, corpus design, survey design, and data annotation practices</li>
+</ul>
+
+<hr>
+
+<h3><strong>Research Associate</strong> (2015 - 2017)</h3>
+<p><strong>🏛️ University of Cologne</strong><br>
+<em>Germany</em></p>
+
+<p><strong>🔬 DFG Project:</strong> The relation between grammar and usage: null subjects and subject position in Spanish and Persian<br>
+<strong>👥 PI:</strong> Prof. Dr. Aria Adli</p>
+
+<p><strong>💼 Core Responsibilities:</strong></p>
+<ul>
+<li>Multi-layer annotation of Persian spontaneous speech</li>
+<li>Data preparation and transformation</li>
+<li>Developing hierarchical data representation strategies in alignment with ISO frameworks, MAF and SynAF, and TEI guidelines</li>
+</ul>
+
+</div>
+
+---
 
 Publications
 ======
