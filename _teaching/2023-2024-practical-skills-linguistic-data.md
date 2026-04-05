@@ -18,7 +18,7 @@ The curriculum covers diverse preprocessing methods for cleaning and preparing p
 
 **No prior programming experience required** - this course is accessible to all students interested in managing and analyzing linguistic data.
 
-## Dates, Content, and Mini-tasks
+<!-- ## Dates, Content, and Mini-tasks
 
 | Date | Content | Mini-tasks | Mini-task Deadline |
 |------|---------|------------|-------------------|
@@ -37,7 +37,7 @@ The curriculum covers diverse preprocessing methods for cleaning and preparing p
 | 10.01.2024 | Corpus Analysis in R | Yes | 16.01.2024 |
 | 17.01.2024 | Data Visualization | Yes | 23.01.2024 |
 | 24.01.2024 | Advanced Topics | No | - |
-| 31.01.2024 | Useful Tools & Course Wrap-up | No | - |
+| 31.01.2024 | Useful Tools & Course Wrap-up | No | - | -->
 
 ## Session Materials
 
@@ -47,13 +47,13 @@ The curriculum covers diverse preprocessing methods for cleaning and preparing p
 - Session 4: [R markdown & Tidyverse](/files/teaching/practical-skills-linguistic-data/session-4-r-markdown-tidyverse.pdf)
 - Session 5: [Review & File Operations in R](/files/teaching/practical-skills-linguistic-data/session-5-review-file-operations-r.pdf)
 - Session 6: [Data Cleaning and Preprocessing](/teaching/practical-skills-linguistic-data/session-6/)
-- Session 7: [Session materials](/teaching/practical-skills-linguistic-data/session-7/)
-- Session 8: [Session materials](/teaching/practical-skills-linguistic-data/session-8/)
-- Session 9: [Session materials](/teaching/practical-skills-linguistic-data/session-9/)
-- Session 10: [Session materials](/teaching/practical-skills-linguistic-data/session-10/)
-- Session 11: [Session materials](/teaching/practical-skills-linguistic-data/session-11/)
-- Session 12: [Session materials](/teaching/practical-skills-linguistic-data/session-12/)
-- Session 13: [Session materials](/teaching/practical-skills-linguistic-data/session-13/)
+- Session 7: [Data Cleaning and Preprocessing (2)](/teaching/practical-skills-linguistic-data/session-7/)
+- Session 8: [Pivoting, grouping, string operations](/teaching/practical-skills-linguistic-data/session-8/)
+- Session 9: [String operations and regular expressions](/teaching/practical-skills-linguistic-data/session-9/)
+- Session 10: [Web scraping in R](/teaching/practical-skills-linguistic-data/session-10/)
+- Session 11: [Automatic Annotation](/teaching/practical-skills-linguistic-data/session-11/)
+- Session 12: [Data Visualization](/teaching/practical-skills-linguistic-data/session-12/)
+- Session 13: [Data Visualization (2)](/teaching/practical-skills-linguistic-data/session-13/)
 - Session 14: [Session materials](/teaching/practical-skills-linguistic-data/session-14/)
 
 Sessions 6-14 are available as dedicated pages with rendered HTML tutorials and downloadable materials.
