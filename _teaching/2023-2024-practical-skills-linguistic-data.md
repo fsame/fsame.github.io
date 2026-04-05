@@ -46,6 +46,9 @@ The curriculum covers diverse preprocessing methods for cleaning and preparing p
 - Session 3: [R basics (2) and R markdown](/files/teaching/practical-skills-linguistic-data/session-3-r-basics-2-r-markdown.pdf)
 - Session 4: [R markdown & Tidyverse](/files/teaching/practical-skills-linguistic-data/session-4-r-markdown-tidyverse.pdf)
 - Session 5: [Review & File Operations in R](/files/teaching/practical-skills-linguistic-data/session-5-review-file-operations-r.pdf)
+- Session 6: [Data Cleaning and Preprocessing](/teaching/practical-skills-linguistic-data/session-6/)
+
+Session 6 is available as a dedicated page with a rendered HTML tutorial and downloadable materials.
 
 
 ## Student Feedback Highlights
