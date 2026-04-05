@@ -26,8 +26,8 @@ The curriculum covers diverse preprocessing methods for cleaning and preparing p
 | 18.10.2023 | Importance of Practical Skills in Linguistics & R basics (1) | Yes | 24.10.2023 |
 | 25.10.2023 | R basics (2) and R markdown | Yes | 31.10.2023 |
 | 01.11.2023 | No lecture | - | - |
-| 08.11.2023 | Data Management Fundamentals and File Operations in R | Yes | 14.11.2023 |
-| 15.11.2023 | Data Cleaning and Preprocessing | Yes | 21.11.2023 |
+| 08.11.2023 | R markdown & Tidyverse | Yes | 14.11.2023 |
+| 15.11.2023 | Review & File Operations in R | Yes | 21.11.2023 |
 | 22.11.2023 | Text Processing Basics (Regular Expressions) | Yes | 28.11.2023 |
 | 29.11.2023 | Introduction to Textual Data Types & Data Acquisition from Web | Yes | 05.12.2023 |
 | 06.12.2023 | Sketch Engine and online queries | Yes | 12.12.2023 |
@@ -38,6 +38,14 @@ The curriculum covers diverse preprocessing methods for cleaning and preparing p
 | 17.01.2024 | Data Visualization | Yes | 23.01.2024 |
 | 24.01.2024 | Advanced Topics | No | - |
 | 31.01.2024 | Useful Tools & Course Wrap-up | No | - |
+
+## Session Materials
+
+- Session 1: Introductory session
+- Session 2: [Importance of Practical Skills in Linguistics & R basics (1)](/files/teaching/practical-skills-linguistic-data/session-2-r-basics-1.pdf)
+- Session 3: [R basics (2) and R markdown](/files/teaching/practical-skills-linguistic-data/session-3-r-basics-2-r-markdown.pdf)
+- Session 4: [R markdown & Tidyverse](/files/teaching/practical-skills-linguistic-data/session-4-r-markdown-tidyverse.pdf)
+- Session 5: [Review & File Operations in R](/files/teaching/practical-skills-linguistic-data/session-5-review-file-operations-r.pdf)
 
 
 ## Student Feedback Highlights
