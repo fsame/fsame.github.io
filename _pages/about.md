@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Data Scientist** at **Trivago N.V.** in Düsseldorf, Germany, where I work on building rule-based, ML, and LLM models for various tasks including matching, deduplication, and data enrichment. I develop and optimize BigQuery SQL and Python pipelines at scale, perform exploratory data analysis, and collaborate with backend engineers to productionize scalable models.
+I am a **Computational Linguist and Data Scientist** at the **University of Cologne**, affiliated with the **Data Center for the Humanities (DCH)**. I am building the **Experimental Service Hub** for the linguistics labs of the Faculty of Arts and Humanities, including the XLinC Lab and the Phonetics Lab. My work covers programming experiments (audio/video, reaction time, eye-tracking, EEG), developing data analysis pipelines, research data management and archiving, and offering consultation and training for researchers.
 
-Previously, I completed my **Ph.D. in Linguistics** at the **University of Cologne** (2017-2022), where I worked under the supervision of Prof. Dr. Nikolaus P. Himmelmann and Prof. Dr. Kees van Deemter. My research focused on **Referring Expression Generation in Context**, combining linguistic and computational approaches to understand how humans choose referring expressions in discourse.
+From 2024 to 2026, I was a **Data Scientist** at **Trivago N.V.** in Düsseldorf. There I built rule-based, ML, and LLM models for matching, deduplication, and data enrichment, and developed BigQuery SQL and Python pipelines at scale.
 
-My academic background includes a **Research Master's Programme in Linguistics** from **Utrecht University** (2012-2014), where I worked on the vector-based semantics of distal PP modification under Prof. Dr. Yoad Winter and Dr. Choonkyu Lee.
+From 2015 to 2024, I worked at the University of Cologne in the **SFB 1252 "Prominence in Language"**, mainly in the infrastructure project INF. I developed data pipelines and metadata schemas, supported corpus annotation and research data management, and trained and advised researchers across the collaborative research centre.
 
-I am passionate about **Natural Language Processing**, **Machine Learning**, and building bridges between linguistic theories and computational methods. My research interests span from classical machine learning approaches to transformer-based large language models, with a particular focus on human evaluation methodologies and reliable NLG assessment.
+I completed my **Ph.D. in Linguistics** at the **University of Cologne** (2017–2022), supervised by Prof. Dr. Nikolaus P. Himmelmann and Prof. Dr. Kees van Deemter. My dissertation, *Referring Expression Generation in Context*, combined linguistic and computational approaches to how people choose referring expressions in discourse. Before that, I completed the **Research Master's in Linguistics** at **Utrecht University** (2012–2014).
+
+My interests include **Natural Language Generation**, the **human evaluation of NLG systems**, **experimental linguistics**, and building tools that make research data easier to explore and reuse.

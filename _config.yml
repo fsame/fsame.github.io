@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fahime (Fafa) Same"
 title_separator          : "-"
 name                     : &name "Fafa"
-description              : &Research Associate at SFB1252-Prominence in Language/ University of Cologne"
+description              : "Computational Linguist & Data Scientist, Data Center for the Humanities (DCH), University of Cologne"
 url                      : https://fsame.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fsame/fsame.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Fafa Same"
   avatar           : "profile.jpg"
-  bio              : "Research assistant in SFB1252 Prominence in Language at the University of Cologne, subproject INF: Data, Design &amp; Sustainability"
+  bio              : "Computational Linguist &amp; Data Scientist, Data Center for the Humanities (DCH), University of Cologne"
   location         : "Cologne, Germany"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=QcpCaaYAAAAJ&hl=en"
   email            :  "f.same[at]uni-koeln.de"
   researchgate     :  "https://www.researchgate.net/profile/Fahime_Same2"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "fafa_same"
+  twitter          :
   vine             :
   weibo            :
   xing             :
