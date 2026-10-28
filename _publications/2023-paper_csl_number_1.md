@@ -1,0 +1,12 @@
+---
+title: "Neural Referential Form Selection: Generalisability and Interpretability"
+collection: publications
+permalink: /publication/01/04/2023-paper_csl_number_1
+excerpt: 'In recent years, a range of Neural Referring Expression Generation (REG) systems have been built and they have often achieved encouraging results. However, these models are often thought to lack transparency and generality. Firstly, it is hard to understand what these neural REG models can learn and to compare their performance with existing linguistic theories. Secondly, it is unclear whether they can generalise to data in different text genres and different languages. To answer these questions, we propose to focus on a sub-task of REG: Referential Form Selection (RFS). We introduce the task of RFS and a series of neural RFS models built on state-of-the-art neural REG models. To address the issue of interpretability, we probe these RFS models using probing classifiers that consider information known to impact the human choice of Referential Forms. To address the issue of generalisability, we assess the performance of RFS models on multiple datasets in multiple genres and two different languages, namely, English and Chinese.'
+date: 01/04/2023
+venue: 'Computer Speech & Language, 79, 101466'
+paperurl: 'https://doi.org/10.1016/j.csl.2022.101466'
+---
+In recent years, a range of Neural Referring Expression Generation (REG) systems have been built and they have often achieved encouraging results. However, these models are often thought to lack transparency and generality. Firstly, it is hard to understand what these neural REG models can learn and to compare their performance with existing linguistic theories. Secondly, it is unclear whether they can generalise to data in different text genres and different languages. To answer these questions, we propose to focus on a sub-task of REG: Referential Form Selection (RFS). We introduce the task of RFS and a series of neural RFS models built on state-of-the-art neural REG models. To address the issue of interpretability, we probe these RFS models using probing classifiers that consider information known to impact the human choice of Referential Forms. To address the issue of generalisability, we assess the performance of RFS models on multiple datasets in multiple genres and two different languages, namely, English and Chinese.
+
+[Download paper here](https://doi.org/10.1016/j.csl.2022.101466) 
