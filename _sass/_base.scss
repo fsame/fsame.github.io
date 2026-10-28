@@ -122,6 +122,11 @@ a {
   }
 }
 
+/* keep links recognizable now that they are black */
+.page__content a {
+  text-decoration: underline;
+}
+
 /* code */
 
 tt, code, kbd, samp, pre {
