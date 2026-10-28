@@ -138,6 +138,8 @@ Supervisor: Prof. Dr. Koorosh Safavi</p>
 <h2>Selected Talks and Posters</h2>
 
 <ul class="plain">
+<li>PLeW-NLG: Interactive Exploration of Human Evaluation Data across NLG Tasks. INLG 2026, Utrecht, the Netherlands, October 2026. <a href="https://fsame.github.io/files/poster_inlg_2026_plew_nlg.pdf">Poster</a></li>
+<li>A Comparative Evaluation of End-to-End and Pipeline Approaches for Summarisation. INLG 2026, Utrecht, the Netherlands, October 2026. <a href="https://fsame.github.io/files/poster_inlg_2026_summarisation_e2e.pdf">Poster</a></li>
 <li>Beyond One-Size-Fits-All: Layered Human Evaluation for Reliable NLG Assessment. DCU NLP Seminar Series, Dublin, Ireland (online), June 2025.</li>
 <li>Learnings from NLP Conferences (with Saad Mahamood, Srinivas Ramesh Kamath, and Patrícia Schmidtová). Trivago AI Meetup, Düsseldorf, Germany, January 2025.</li>
 <li>Human Evaluation: Why the Choice of Approach is Key. Computational Linguistics in the Hothouse, Utrecht, the Netherlands, July 2024.</li>
